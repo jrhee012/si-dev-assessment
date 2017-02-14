@@ -15,6 +15,7 @@ class UsersController < ApplicationController
       redirect_to action: "new"
     end
   end
+  
 
 private
 
